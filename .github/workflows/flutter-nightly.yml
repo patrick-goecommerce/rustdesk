@@ -1,4 +1,4 @@
-name: Flutter Nightly Build
+name: go Remote Nightly Build
 
 on:
   schedule:

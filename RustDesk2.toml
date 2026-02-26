@@ -1,0 +1,5 @@
+[options]
+custom_rendezvous_server = "goremote.go-ecommerce.de"
+key = "BgxcHHWnIrhCy2ObBqKR7mg8REpGgrU3ZexkI6GKzA8="
+relay_server = "goremote.go-ecommerce.de"
+api_server = ""
